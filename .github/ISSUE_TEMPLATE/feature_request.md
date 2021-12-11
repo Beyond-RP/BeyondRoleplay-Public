@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Schlage eine Idee für das Spiel vor!
-title: FEATURE-REQUEST-name_des_request
+title: FEATURE-REQUEST-stichwort
 labels: feature-request
 assignees: ''
 

@@ -1,2 +1,2 @@
 # main
-Public Accesspoint for Bugreport and Reature-Request
+Public Accesspoint for Bugreport and Feature-Request

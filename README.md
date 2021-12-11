@@ -1,7 +1,4 @@
 ### Public Accesspoint for Bugreport and Feature-Request
-
-### Features
-
 - WIP
 - WIP
 - WIP

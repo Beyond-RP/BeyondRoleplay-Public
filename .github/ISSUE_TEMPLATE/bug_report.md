@@ -27,7 +27,8 @@ Fügen Sie gegebenenfalls Screenshots hinzu, um Ihr Problem zu erklären.
   - Betriebssystem: [z.B. iOS]
   - Desktopauflösung [z.b. 2560x1440]
   - Desktopskalierung [z.b. 125%]
-  - GTA:V Auflösung [z.b. 1920x1080]
+  - GTA:V Auflösung [z.b. 1920x1080]  
+  - GTA:V Bildschirmmodus [z.b. Vollbild, Fenster, Rahmenlos]
   - GTA:V Version [z.B. 1.04]
   - AltV Version [z.B. 1.41]
 

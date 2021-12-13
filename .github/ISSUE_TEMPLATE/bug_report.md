@@ -25,14 +25,17 @@ Fügen Sie gegebenenfalls Screenshots hinzu, um Ihr Problem zu erklären.
 
 **Desktop (bitte füllen Sie die folgenden Informationen aus):**
   - Betriebssystem: [z.B. iOS]
-  - Browser [z.B. Chrom, Safari]
-  - Ausführung [z.B. 22]
+  - Desktopauflösung [z.b. 2560x1440]
+  - Desktopskalierung [z.b. 125%]
+  - GTA:V Auflösung [z.b. 1920x1080]
+  - GTA:V Version [z.B. 1.04]
+  - AltV Version [z.B. 1.41]
 
-**Smartphone (bitte folgende Angaben ausfüllen):**
-  - Gerät: [z.B. iPhone 6]
-  - Betriebssystem: [z.B. iOS8.1]
-  - Browser [z.B. Aktienbrowser, Safari]
-  - Ausführung [z.B. 22]
+**LogFiles**
+Bitte folgende Logs aus dem AltV Verzeichnis anfügen.
+- cef.log
+- client_"DATUM".log
+- launcher.log
 
 **Zusätzlicher Kontext**
 Fügen Sie hier jeden weiteren Kontext zu dem Problem hinzu.
